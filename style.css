@@ -9,7 +9,7 @@ body {
     background: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(background.jpg);
     background-size: cover;
     background-position: center;
-    padding-bottom: 500px;
+    padding-bottom: 600px;
 }
 
 .heading {
